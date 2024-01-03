@@ -1,3 +1,5 @@
+Learned about different Hooks present in React JS like useState, useEffect, useCallback, useRef
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
